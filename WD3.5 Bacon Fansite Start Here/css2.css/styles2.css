@@ -1,0 +1,18 @@
+body{
+  background-color: pink;
+}
+h1{
+  color: yellow;
+}
+p{
+  color: lightgreen;
+}
+img{
+  background-color: silver;
+}
+hr{
+  border-style: outset;
+  color: blue;
+  border-width: 4px;
+  
+}
